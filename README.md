@@ -1,3 +1,3 @@
-![Visitor Badge](https://img.shields.io/github/downloads/:user/:repo/total)
+![Visitor Badge](https://img.shields.io/github/downloads/:iceyyfog/:quick-gps/total)
 # The events and the Ox Radial Menu preset can be found inside of the Config.Lua near the bottom!
 # https://discord.gg/YpvynAqyZD
