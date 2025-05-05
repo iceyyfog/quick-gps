@@ -1,7 +1,6 @@
 # quick-gps
 QBCORE/QBOX | Quick GPS Script
-## OX Radial Menu Preset Inside Config.Lua
-## EVENTS
+
 quickgps:client:setClosestConWaypoint -- 24/7's and LTD's
 quickgps:client:setClosestBankWaypoint -- Banks
 quickgps:client:setClosestClothingWaypoint -- Clothing Stores
