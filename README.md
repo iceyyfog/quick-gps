@@ -1,5 +1,11 @@
 # quick-gps
 QBCORE/QBOX | Quick GPS Script
+quickgps:client:setClosestConWaypoint -- 24/7's and LTD's
+quickgps:client:setClosestBankWaypoint -- Banks
+quickgps:client:setClosestClothingWaypoint -- Clothing Stores
+quickgps:client:setClosestHairWaypoint -- Barber/Hair Stores
+quickgps:client:setClosestTatWaypoint -- Tattoo
+quickgps:client:setClosestGasWaypoint -- Gas station
 
 ## EVENTS
 quickgps:client:setClosestConWaypoint -- 24/7's and LTD's
