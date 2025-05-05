@@ -3,9 +3,6 @@ Config = {}
 -- Notification system: "qb", "ox", "mythic", "okok" or "custom"
 Config.Notify = "ox"
 
--- Locale setting: "en", "es", "fr", "it", "pt", "de",
-Config.Locale = "en"
-
 -- Success Messages
 Config.SuccessConMSG = "GPS set to nearest convenience store."
 Config.SuccessGasMSG = "GPS set to nearest gas station."
