@@ -1,6 +1,4 @@
-# quick-gps
-QBCORE/QBOX | Quick GPS Script
-
+# Events
 quickgps:client:setClosestConWaypoint -- 24/7's and LTD's
 quickgps:client:setClosestBankWaypoint -- Banks
 quickgps:client:setClosestClothingWaypoint -- Clothing Stores
